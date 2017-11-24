@@ -1,0 +1,39 @@
+body{
+	background-color:none;
+	font-family:arial;
+	padding:8px;
+	}
+.header{
+	font-size:48pt;
+	border-bottom:2px;
+	border-bottom-color:black;
+	}
+.div-sidebar{
+	background-color:grey;
+	padding:4px;
+	}
+.sidebar {
+	width:50%;
+	margin-top:8px;
+	margin-bottom:8px;
+	}
+	.sidebar tr{
+		}
+	.sidebar tr th{
+		padding:5px;
+		}
+		.sidebar tr th a{
+			text-decoration:none;
+			padding:4px 12px 4px 12px;
+			background-color:black;
+			color:white;
+			border-radius:4px;
+			font-size:14pt;
+			}
+		.sidebar tr th a:hover{
+			background-color:white;
+			color:black;
+			}
+.table-form {
+	width:100%;
+	}
